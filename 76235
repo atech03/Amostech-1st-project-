@@ -1,0 +1,72 @@
+*{
+  padding: 1px;
+  margin: 1px;
+  background: #34495E;
+}
+
+.LOGIN{
+  padding: 10px;
+  margin: 20px;
+  border: solid black;
+}
+
+.login-1{
+  margin-left: 20px;
+  padding: 10px;
+}
+
+.login-2{
+  margin-left: 20px;
+  padding: 10px;
+  
+}
+
+.commands{
+  margin-left: 25px;
+}
+
+.btn-1-container{
+  padding: 5px;
+  margin: 5px;
+  
+}
+
+.btn-1{
+  background: #2C3E50;
+  padding: 010px;
+  border-radius: 10px;
+}
+
+.btn-1 button{
+  margin-left: 120px;
+  padding: 5px;
+  background: #2C3E50;
+  border: transparent;
+}
+
+.dif-1{
+  margin-left: 040px;
+}
+
+.btn-2-container{
+  margin: 5px;
+  padding: 5px;
+}
+
+.btn-2{
+  background: #2C3E50;
+  padding: 010;
+  border-radius: 10px;
+}
+
+.btn-2 button{
+  margin-left: 135px;
+  padding: 5px;
+  background: #2C3E50;
+  border: transparent;
+}
+
+.end-page{
+  padding-top: 30px;
+  margin-left: 50px;
+}
